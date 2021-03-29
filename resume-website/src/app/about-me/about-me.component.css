@@ -1,0 +1,17 @@
+mat-card{
+    margin:auto;
+    background-color: inherit;
+}
+
+h1{
+    color: #FEFFFF;
+    font-weight: bold;
+    font-size:xx-large;
+    text-align: center;
+}
+h2{
+    color:#17252A;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 1em;
+}
